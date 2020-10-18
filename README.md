@@ -1,5 +1,8 @@
 # General Assignment
 
+## Published at:
+http://cloudflare-2020-ge-assignment.arhamjamal.workers.dev
+
 ## What is it?
 
 In this exercise, you'll deploy a Cloudflare Workers project in order to build a linktree-style website. Below is a list of requirements and success criteria for your finished project.
